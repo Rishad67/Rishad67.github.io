@@ -1,0 +1,13 @@
+#main-container{
+	background:rgba(20,20,30,0.9);
+	min-height:100vh;
+	color:rgb(255,255,200);
+}
+
+div{
+	padding:1%;
+}
+
+p{
+	color:rgb(150,250,255);
+}
